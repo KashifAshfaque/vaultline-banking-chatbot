@@ -1,5 +1,7 @@
 # 🏦 Vaultline — Banking Support Chatbot
 
+### 🔗 [**Live Demo →**](https://vaultline-banking-chatbot-2ikwtf3bzdbuzfodsjb9ap.streamlit.app)
+
 A clean, instant-answer support chatbot for common banking queries — account access, cards, UPI, loans, and KYC — built with **Streamlit** and styled with a custom dark "ledger" theme.
 
 > Ask a question in plain English (or Hinglish), get an instant matched answer from a knowledge base — no API keys, no LLM calls, fully offline and self-contained.
